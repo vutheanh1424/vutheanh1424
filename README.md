@@ -97,7 +97,10 @@ I aim to design integrated systems that combine **mechanics, electronics, and in
 ## 📫 Let's Connect
 [![Email](https://img.shields.io/badge/Email-vuanh142004%40gmail.com-red?logo=gmail)](mailto:vuanh142004@gmail.com)  
 📱 **WhatsApp**: +84 332 013 752  
-💬 **WeChat**: anhvu2004  
+💬 **WeChat**: Alex_Vu_1424
+💬 **Line**: Alex_Vu_1424
+
+
 
 ---
 
